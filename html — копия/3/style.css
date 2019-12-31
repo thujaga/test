@@ -1,0 +1,27 @@
+body,html
+	.top-panel{
+
+	}
+	.top-panel .search_block{
+
+	}
+	.main-container{
+		margin: 0 auto;
+		width: 940px;
+		padding: 0 10px;
+	}
+	.menu{
+		width: 300px
+		background:gray;
+		height: 50%
+
+	}
+	.menu__item{
+
+	}
+	.menu__link{
+
+	}
+	.menu__link:hover{
+
+	}

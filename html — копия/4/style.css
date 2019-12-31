@@ -1,0 +1,38 @@
+body, html{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	height: 100px;
+	width: 100%;
+	background: gray;
+}
+.wrapper{
+	display: flex;
+
+}
+.inline{
+	display: flex;
+}
+.nav{
+	width: 30%;
+	background: darkgray;
+
+}
+.content{
+	width: 70%;
+	background: snow;
+}
+.footer{
+	width: 100%;
+	height: 100px;
+	background: blue;
+}
+.inline li{
+	list-style-type: none;
+	margin-left: 10px;
+}
+
+h1 {
+	text-align: center;
+}
