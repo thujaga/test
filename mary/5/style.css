@@ -25,7 +25,7 @@ margin: 0;
 .wrapper{
 	background: black;
     display: flex;
-	
+	color: white;
 }
 .wrapper2{
 	color:white;
