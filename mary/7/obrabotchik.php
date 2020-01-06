@@ -17,7 +17,7 @@ if (!isset($dreamweaver)) {$dreamweaver="НЕТ";}
 if (!isset($php)) {$php="НЕТ";}
 
 
-
+echo 5-1;
 
 echo "<h2>Сведения о заказе клиента :</h2>";
 echo "<strong>Ф.И.О заказчика</strong> - $fio<br> <strong>Пароль :</strong> $pass <br>";
