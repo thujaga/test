@@ -1,0 +1,26 @@
+h1{
+	color: black; font-size: 30px;
+	background: #7B68EE;
+	transform-style: oblique;
+	font-variant: small-caps;
+	text-align:center;
+	
+}
+h2{
+	font-family: verdana, arial, sans-serif;
+	text-decoration: underline;
+	text-transform: capitalize;
+
+}
+p{
+	color: snow; 
+	font-size: 25px;
+	font-family: "times new roman", serif;
+	font-weight: 200;
+	font-style: italic;
+	text-decoration: line-through;
+	text-indent: 10px;
+}
+body{
+	background:#DDA0DD url(http://avtomoto-best.ru/wp-content/uploads/2017/01/motocikl-kawasaki-ninja-250-sportbajk-dlja_2.jpg) no-repeat fixed top right;
+}
