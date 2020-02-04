@@ -24,3 +24,19 @@ p{
 body{
 	background:#DDA0DD url(http://avtomoto-best.ru/wp-content/uploads/2017/01/motocikl-kawasaki-ninja-250-sportbajk-dlja_2.jpg) no-repeat fixed top right;
 }
+ol{list-style-type: upper-roman;}
+ul{list-style:square url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCFMmHOtu_keKLMVWrg10RhCi0rjgaUeZLs-lY-QOgaQ9bkeog&s);}
+a:link{
+	color: green;
+}
+a:visited{
+	color: gray;
+	text-decoration: none;
+    font-weight: bold;
+
+}
+a:active{
+color: blue;
+text-decoration: none;
+text-transform: uppercase;
+}

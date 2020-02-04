@@ -1,0 +1,11 @@
+p{
+	font-family: arial,verdana,sans-serif;
+	font-size: 18px;
+}
+.green{color: green;}
+
+.big_reed{
+	font-size: 28px;
+	color: red;
+}
+h1#firstheader{color: green; font-weight: bold; text-align: center;}
