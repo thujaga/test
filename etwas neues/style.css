@@ -50,15 +50,20 @@ main{
 main .main__welcome{
 	background: black;
 	text-align:center;
-	padding: 200px 0 410px 0;	
+	padding: 50px 0 50px 0;	
 }
 main .main__welcome p{
 	color: #999999;
-	font-size: 20px;
+	font-size: 14px;
   }
   main .main__welcome h1{
 	color: #999999;
-	font-size: 44px;
+	font-size: 25px;
+  }
+
+  .mw-100{
+	max-width: 100%;
+
   }
   .mycompany{
   	 color: #fcac45;
@@ -119,11 +124,30 @@ main .main__about{
 	display: flex;
 	padding: 100px 0 100px 0;
 }
+.main__about{
+flex-direction: column;
+}
 .about__right{
-	margin-left: 175px;	
+	margin-left: 175px;
+	text-align: center;
+	margin-left: 0;
 }
 .about__right h1{
 	display: inline-block;
 	border-bottom: 3px solid #fcac45;
 	padding-bottom: 20px;
+	font-size: 20px;
+	margin-top: 10px;
+}
+.about__right p{
+	margin: 30px 0 50px 0;
+	color: 6c6c6c;
+}
+.about__right li{
+	background: url(img/insta.jpg) 0px no-repeat;
+	padding-left: 25px;
+	text-align: left;
+}
+.mw-100{
+	min-width: 100%;
 }
